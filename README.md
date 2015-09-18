@@ -1,1 +1,2 @@
-# kubernetes
+# kubernetes for coreos bare metal
+
